@@ -21,7 +21,6 @@ The clone of Spotify  music platform where I have created the Front-end clone of
 -  npm  install 
   - npm run dev
 
-https://github.com/user-attachments/assets/4c768673-09ef-4b06-b057-01a23c94e4be
 
 
 
