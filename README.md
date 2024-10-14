@@ -62,9 +62,7 @@ Watch a preview of the Spotify clone [here](https://github.com/user-attachments/
 ## Contributing  
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## License  
-This project is licensed under the MIT License.
+
 
 ---
 
-With this update, your README now reflects a professional tone, is more structured, and includes a clearer explanation of the project’s features and installation steps.
